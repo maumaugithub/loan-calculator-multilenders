@@ -1,0 +1,8 @@
+lender\LenderTest.class
+QuoteTest.class
+logic\WeightedLoanAlgoTest.class
+input\ClientInputParserTest.class
+input\InputValidatorTest.class
+lender\LenderPoolTest.class
+IntegrationTest.class
+logic\WeightedLoanCalculatorTest.class
